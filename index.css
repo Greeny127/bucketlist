@@ -35,7 +35,6 @@ html {
 }
 
 #Footer {
-    position: sticky;
     position: absolute;
     top: 93%;
     font-size: 1.5vh;
