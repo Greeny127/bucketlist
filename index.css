@@ -1,0 +1,42 @@
+html {
+    font-family: 'Consolas';
+    font-weight: bolder;
+    background-color: cadetblue;
+    color: white;
+}
+
+#UpdatesContainer {
+    margin-bottom: 10vh;
+}
+
+#UpdatesContainerTitle {
+    text-decoration: underline;
+}
+
+#InfoContainerTitle {
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+#ListContainer {
+    background-color: rgb(53, 87, 88);
+    align-self: center;
+    margin: auto;
+    width: 20vw;
+    padding: 0.1vh 1Vw;
+    border-width: 1vh;
+    border-color: white;
+    border-style: groove
+}
+
+#ListContainerTitle {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#Footer {
+    position: sticky;
+    position: absolute;
+    top: 93%;
+    font-size: 1.5vh;
+}
