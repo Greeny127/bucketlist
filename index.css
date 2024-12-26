@@ -6,7 +6,7 @@ html {
 }
 
 #UpdatesContainer {
-    margin-bottom: 10vh;
+    margin-bottom: 10%;
 }
 
 #UpdatesContainerTitle {
@@ -22,8 +22,8 @@ html {
     background-color: rgb(53, 87, 88);
     align-self: center;
     margin: auto;
-    width: 20vw;
-    padding: 0.1vh 1Vw;
+    width: 50%;
+    padding: 5% 5%;
     border-width: 1vh;
     border-color: white;
     border-style: groove
@@ -34,8 +34,4 @@ html {
     text-decoration: underline;
 }
 
-#Footer {
-    position: absolute;
-    top: 93%;
-    font-size: 1.5vh;
-}
+#Footer {}
